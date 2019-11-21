@@ -5,7 +5,7 @@
 
 - M. Cyrus
 
-![me + fountain](https://github.com/tallyvanv/challenge-markdown/blob/master/me.JPG =250x)
+! [me + fountain](https://github.com/tallyvanv/challenge-markdown/blob/master/me.JPG =250x)
 
 ## Me, in one sentence
 
@@ -33,6 +33,8 @@ Pineapple on pizza|yes: &#9744; no: &#9745;
 When you need more explanation.
 
 ## A funny story
+
+(https://github.com/Xenoxinius/challenge-markdown/tree/master "Prev")
 
 
     
