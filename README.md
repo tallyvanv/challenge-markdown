@@ -5,7 +5,7 @@
 
 - M. Cyrus
 
-![me + fountain](https://github.com/tallyvanv/challenge-markdown/blob/master/me.jpg)
+![me + fountain](https://raw.githubusercontent.com/tallyvanv/challenge-markdown/master/final.jpg)
 
 ## Me, in one sentence
 
