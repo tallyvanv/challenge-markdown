@@ -17,7 +17,7 @@ Favorite color|Black
 Favorite food|Burgers
 Pineapple on pizza|yes: &#9744; no: &#9745;
 
-##Hobbies
+## Hobbies
 
 * Watching Arthouse cinema
     * Shrek
