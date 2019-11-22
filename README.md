@@ -47,7 +47,7 @@ Yes, it was a bootleg T-shirt of the worst gig ever.
 
 Right after my friend's band broke up, she met a man who made a bootleg T-shirt of their final show.
 
- [prev](https://github.com/Xenoxinius/challenge-markdown/tree/master)||TALISA|| [next](https://emojipedia.org/crying-face/)
+ [prev](https://github.com/Xenoxinius/challenge-markdown/tree/master)||TALISA|| [next](https://github.com/thibence-95/markdwn)
 
 
     
